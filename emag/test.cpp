@@ -1,8 +1,0 @@
-WERTYUIOP
-
-
-eq
-weqweqwewq
-
-eqweqw
-
