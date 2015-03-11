@@ -1,0 +1,63 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+#define FORIT( it,v ) for( typeof((v).begin()) it=(v).begin(); it!=(v).end(); ++it )
+
+class FiveHundredElevel{
+	public:
+		bool max( bool a, bool b ){
+			if( a == true || b == true )
+				return true;
+			return false;
+		}
+		string theWinner( vector<int> Cards ){		
+			string Winner[2]={("Toastman"),("Fox Ciel")};
+			int n = Cards.size(), sum=0;
+			int i, t, inside;
+			bool Rez[512][2], Viz[512];
+			bool ok;
+			FORIT( it, Cards ){
+				sum |= *it;
+			}
+			if( sum != 511 )
+                return Winner[(n&1)];
+ 			for( i=0; i<512; ++i ){
+				Rez[i][0]=Rez[i][1]=Viz[i]=false;
+			}
+			for( i=0; i<512; ++i ){
+				ok=true;
+				inside=0;
+				FORIT( it, Cards ){
+					inside += ( (*it&i) == *it );
+					if( ((*it|i) == 511) || ((*it|i) == i ) )
+						;
+					else
+						ok=false;
+				}
+				if( ok ){
+					Viz[i]=1;
+					if( inside == 0 )
+						;
+					else if( inside&1 )
+						Rez[i][0] = true;
+					else
+						Rez[i][1] = true;	
+				}
+			}
+ 			Rez[511][0] = Rez[511][1] = 1;
+			for( i=510; i>=0; --i ){
+				if( !Viz[i] )
+					for( t=0; t<2; ++t ){
+						ok = false;
+						FORIT( it, Cards ){
+							if( (*it|i) != i ){
+								ok = max( ok, Rez[ i|(*it) ][ t^1 ] ^ 1 );
+							}
+						}
+						Rez[i][t] = ok;
+					}
+			}
+			return Winner[ Rez[0][0] ];
+		}
+};
