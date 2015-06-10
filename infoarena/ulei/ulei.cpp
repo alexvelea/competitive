@@ -5,7 +5,7 @@
 using namespace std;
 
     #define max_m 100005
-    #define max_n 15005
+    #define max_n 15004
 
     #define fi first
     #define se second
