@@ -1,0 +1,83 @@
+#!/bin/bash
+#$1 -> tip
+#$2 $3 $4 $5 $6 -> numele problemei sau contest name
+
+if [ "$2" == "" ]; then
+    echo "Nici o problema"
+    exit
+fi
+
+gitRepoLocation="/home/velea/Work/problems" #location to git Repo from root
+path=$1
+
+requireFiles="0"
+
+if [ "${path}" == "ia" ]; then
+    path="infoarena"
+    requireFiles="1"
+    #ia in loc de infoarena
+fi
+
+if [[ "${path}" == *"infoarena"* ]]; then
+    requireFiles="1"
+    #creeaza un fisier intr-un folder existent, ia->fisiere
+fi
+
+location="${gitRepoLocation}/${path}/"
+
+if [ -d $location ]; then
+    #nu e cotest, dar poate sa fie infoarena/maxflow de exemplu
+    #-> o problema
+    if [[ "${path}" == *"/"* ]]; then
+        #e alta sursa intr-un folder existent
+        path=${path}
+    else
+        path="${path}/$2"
+    fi
+else
+    if [[ "${path}" == *"/"* ]]; then
+        echo "[ERROR]Numele contine / si nu e un path valid. Numele unui concurs nu poate continue /"
+        exit
+    else
+        #contest <3
+        path="contests/${path}"
+    fi
+fi
+
+location="${gitRepoLocation}/${path}/"
+
+if [ -d "${location}" ]; then
+    location=$location
+    #nu merge not -d ... 
+else 
+    mkdir ${location}
+fi
+
+#pentru deschiderea fisierelor in vim dupa :)
+vimLocation="${location}"
+if [[ "${2}" == *"."* ]]; then
+    vimTarget="$2"
+else
+    vimTarget="${2}.cpp"
+fi
+
+for i in $2 $3 $4 $5 $6 $7 $8; do
+    problemName="${i}"
+
+    if [[ "${problemName}" == *'.'* ]]; then
+        problemLocation="${location}${problemName}"
+    else
+        problemLocation="${location}${problemName}.cpp"
+    fi                
+
+    if [ -a "${problemLocation}${problemName}" ]; then
+        echo "[ERROR]Fisierul ${problemLocation} exista deja"
+        exit
+    else
+        bash bashCreateProblem.sh "${problemLocation}" "${problemName}" "${requireFiles}"
+    fi
+done
+
+cd "${vimLocation}"
+vim "${vimTarget}"
+
