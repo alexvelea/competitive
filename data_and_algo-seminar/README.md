@@ -40,7 +40,7 @@ Laborator 6 - :
 1. [Hashuri] (http://www.infoarena.ro/job_detail/1514012?action=view-source).
 2. [Loto] (http://www.infoarena.ro/job_detail/772192?action=view-source).
 3. [Strmatch] (http://www.infoarena.ro/job_detail/1195901?action=view-source).
-4. Per.
+4. [Per] (http://www.infoarena.ro/job_detail/1551019).
 
 Laborator 7 - :
 
