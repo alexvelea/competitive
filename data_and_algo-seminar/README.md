@@ -1,4 +1,10 @@
-Lab. 1
+#Laborator Algoritmi si structuri de date
+
+
+**Structura se poate schimba**
+
+Laborator 1 - :
+
 1. Take Out.
 2. Deque.
 3. [Vila2] (http://www.infoarena.ro/job_detail/654350?action=view-source).
