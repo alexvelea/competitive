@@ -6,7 +6,7 @@
 Laborator 1 - :
 
 1. Take Out.
-2. Deque.
+2. [Deque] (http://www.infoarena.ro/job_detail/1550943).
 3. [Vila2] (http://www.infoarena.ro/job_detail/654350?action=view-source).
 4. Editor.
 
