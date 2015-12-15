@@ -44,7 +44,7 @@ Laborator 6 - :
 
 Laborator 7 - :
 
-1. Sliding Window.
+1. [Sliding Window] (http://www.infoarena.ro/job_detail/1551033).
 2. Facebook.
 
 
