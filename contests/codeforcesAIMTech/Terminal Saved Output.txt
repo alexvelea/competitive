@@ -1,0 +1,79 @@
+Last login: Sat Mar 19 23:14:16 on ttys000
+Velea:~ velea$ python
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 12 2015, 11:00:19) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> .99 ** 16
+0.8514577710948755
+>>> 
+KeyboardInterrupt
+>>> 
+>>> ^D
+Velea:~ velea$ 
+Velea:~ velea$ cd work/CSAProblems/
+Velea:CSAProblems velea$ cd experimental/
+Velea:experimental velea$ tmu
+-bash: tmu: command not found
+Velea:experimental velea$ tmux
+-bash: tmux: command not found
+Velea:experimental velea$ mkdir beaver
+Velea:experimental velea$ cd beaver
+Velea:beaver velea$ ll
+Velea:beaver velea$ vim main.cc
+
+
+  1 #include <iostream>
+  2 using namespace std;
+  3 int main() {
+  4 }   
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+~                                                                                                                                                                                                               
+-- INSERT --

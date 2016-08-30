@@ -16,6 +16,3 @@ input_parser = input_generator()
 def get_chuck():
     global input_parser
     return next(input_parser)
-
-n, m = range(1, 10)
-print(n, m)

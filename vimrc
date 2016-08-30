@@ -1,0 +1,134 @@
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+
+Plugin 'Valloric/YouCompleteMe'
+
+Plugin 'rdnetto/YCM-Generator'
+" The following are examples of different formats supported.
+" Keep Plugin commands between vundle#begin/end.
+" plugin on GitHub repo
+" Plugin 'tpope/vim-fugitive'
+" plugin from http://vim-scripts.org/vim/scripts.html
+" Plugin 'L9'
+" Git plugin not hosted on GitHub
+" Plugin 'git://git.wincent.com/command-t.git'
+" git repos on your local machine (i.e. when working on your own plugin)
+" Plugin 'file:///home/gmarik/path/to/plugin'
+" The sparkup vim script is in a subdirectory of this repo called vim.
+" Pass the path to set the runtimepath properly.
+" Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
+" Install L9 and avoid a Naming conflict if you've already installed a
+" different version somewhere else.
+" Plugin 'ascenator/L9', {'name': 'newL9'}
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+filetype plugin indent on    " required
+" To ignore plugin indent changes, instead use:
+"filetype plugin on
+"
+" Brief help
+" :PluginList       - lists configured plugins
+" :PluginInstall    - installs plugins; append `!` to update or just :PluginUpdate
+" :PluginSearch foo - searches for foo; append `!` to refresh local cache
+" :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
+"
+" see :h vundle for more details or wiki for FAQ
+" Put your non-Plugin stuff after this line
+
+" Basic configuration
+" set noignorecase
+" set wildmode=longest,list
+
+let g:ycm_global_ycm_extra_conf = '~/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py'
+
+set wildmenu
+set wildmode=longest:full,full
+set noswapfile
+
+" Some indentation rules
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set shiftround
+set smarttab
+set autoindent
+set smartindent
+set invnumber
+set wrap
+
+set mouse=i
+set splitbelow
+set splitright
+set autoread
+
+syntax on
+
+" Move paste toggle to Ctrl + B
+set pastetoggle=<C-b>
+
+" Basic mappings
+map <F2> :w<CR>i
+imap <F2> <Esc>:w<CR>i<Right>
+
+map <F3> :tabnew<CR>:e  
+imap <F3> <ESC>:tabnew<CR>:e 
+
+map <F4> :q <CR>
+imap <F4> <ESC>:q <CR>i
+
+map <F5> :tabprev<CR>
+imap <F5> <ESC>:tabprev<CR>i
+
+map <F6> :tabnext<CR>
+imap <F6> <ESC>:tabnext<CR>i
+
+map <F7> i
+imap <F7> <ESC>i
+
+map <F10> :!open -a /Applications/Sublime\ Text.app/ % & <CR>i
+imap <F10> <ESC>:!open -a /Applications/Sublime\ Text.app/ % & <CR>i
+
+" Evil osx shortcuts
+" there is no home/end/pageup/pagedown
+map ø <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+imap ø <ESC> øi
+
+map ˚ <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+imap ˚ <ESC> ˚i
+
+map ∆ <Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
+imap ∆ <ESC> ∆i
+
+map ¬ <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>
+imap ¬ <ESC> ¬i
+ 
+map <F8> :!clear<CR>i
+imap <F8> <ESC>:!clear<CR>i
+
+" C/C++ compilation
+autocmd FileType c setlocal makeprg=gcc\ -g\ -O2\ -Wall\ %\ -o\ _%<\ -lm
+autocmd FileType cpp setlocal makeprg=clang++\ -std=c++14\ -O2\ -Wall\ %\ -o\ _%<\ -lm
+
+autocmd FileType c,cpp map <buffer> <F8> :!clear<CR>:make!<CR>
+autocmd FileType c,cpp imap <buffer> <F8> <ESC>:!clear<CR>:make!<CR>
+
+imap <F9> <ESC> <F9>
+
+" Running C/ C++
+autocmd FileType c,cpp map <buffer> <F9> :!clear<CR>:make!<cr>:!time ./_%< <CR>
+
+" Running Python
+autocmd FileType python map <buffer> <F9> :!clear<CR>:!time python3 % <CR>
+
+" Running Bash
+autocmd FileType bash,sh map <buffer> <F9> :!clear<CR>:!time ./% <CR>

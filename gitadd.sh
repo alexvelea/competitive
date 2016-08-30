@@ -2,6 +2,7 @@
 git add \*.md
 
 git add \*.cpp
+git add \*.cc
 git add \*.py
 git add \*.sh
 
