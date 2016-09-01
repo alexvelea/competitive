@@ -1,0 +1,43 @@
+BASE16_SHELL=$HOME/.config/base16-shell/
+[ -n "$PS1" ] && [ -s $BASE16_SHELL/profile_helper.sh ] && eval "$($BASE16_SHELL/profile_helper.sh)"
+
+stty -ixon #ubuntu allows control-s and shit
+
+alias vgrind="valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all"
+alias 5="md5"
+alias shitSlow="pkill -15 -u velea"
+alias ll="ls -Al"
+alias size="ls -lR | awk '{s+=$5} END {print s}'"
+
+sudo() {
+    echo "The Doors of Durin, Lord of Moria. Speak, friend, and enter."
+    command sudo "$@"
+}
+
+alias python="python3"
+ 
+alias csa="cd ~/work/CSAcademy/csacademy/"
+alias code="cd ~/work/CSacademy/csacademy/content/static/ranking_system/code_refactored/"
+alias runserver="autossh -f -M 0 -N -L 15432:localhost:5432 root@linode-dev; autossh -f -M 0 -N -L 16379:localhost:6379 root@linode-dev; python manage.py runserver"
+
+export HISTCONTROL=ignoredups:erasedups  # no duplicate entries
+export HISTSIZE=100000                   # big big history
+export HISTFILESIZE=100000               # big big history
+shopt -s histappend                      # append to history, don't overwrite it
+
+# Save and reload the history after each command finishes
+# export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
+
+viewmd() {
+    pandoc $1 | lynx -stdin    
+}
+
+comp() {
+    g++ -std=c++14 -O2 -Wall $1 -o _${1%%.*} -lm 
+}
+
+exec() {
+    g++ -std=c++14 -O2 -Wall $1 -o _${1%%.*} -lm 
+    time ./_${1%%.*}
+    rm _${1%%.*}
+}
