@@ -1,18 +1,17 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
-
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+ " call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 
 " let Vundle manage Vundle, required
-Plugin 'VundleVim/Vundle.vim'
+" Plugin 'VundleVim/Vundle.vim'
 
-Plugin 'Valloric/YouCompleteMe'
+" Plugin 'Valloric/YouCompleteMe'
 
-Plugin 'rdnetto/YCM-Generator'
+" Plugin 'rdnetto/YCM-Generator'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
@@ -30,7 +29,7 @@ Plugin 'rdnetto/YCM-Generator'
 " different version somewhere else.
 " Plugin 'ascenator/L9', {'name': 'newL9'}
 " All of your Plugins must be added before the following line
-call vundle#end()            " required
+ " call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
 "filetype plugin on
@@ -100,17 +99,20 @@ imap <F10> <ESC>:!open -a /Applications/Sublime\ Text.app/ % & <CR>i
 
 " Evil osx shortcuts
 " there is no home/end/pageup/pagedown
-map ø <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
-imap ø <ESC> øi
+" terminal -> config -> keyboard -> bind any keys to generate
+" alt + hjlk in order left, up, right, down
+map ˙ <Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
+imap ˙ <Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 
-map ˚ <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
-imap ˚ <ESC> ˚i
+map ∆ <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
+imap ∆ <Up><Up><Up><Up><Up><Up><Up><Up><Up><Up>
 
-map ∆ <Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
-imap ∆ <ESC> ∆i
+map ˚ <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>
+imap ˚ <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>
 
-map ¬ <Right><Right><Right><Right><Right><Right><Right><Right><Right><Right><Right>
-imap ¬ <ESC> ¬i
+map ¬ <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+imap ¬ <Down><Down><Down><Down><Down><Down><Down><Down><Down><Down>
+
  
 map <F8> :!clear<CR>i
 imap <F8> <ESC>:!clear<CR>i
