@@ -1,0 +1,7632 @@
+Child:1	with bonus:0	taken:1
+[Fill] - true : 1
+15	15	
+~~~~~~~~~~~
+1	1	
+Child:2	with bonus:1	taken:1
+[Fill] - true : 1
+0	15	15	
+~~~~~~~~~~~
+0	1	1	
+Child:2	with bonus:1	taken:0
+1	0	15	
+~~~~~~~~~~~
+1	0	2	
+Child:2	with bonus:1	taken:1
+[Fill] - true : 1
+15	15	15	
+~~~~~~~~~~~
+1	1	1	
+Child:3	with bonus:2	taken:1
+[Fill] - true : 1
+0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	
+Child:3	with bonus:2	taken:0
+0	1	0	15	
+~~~~~~~~~~~
+0	1	0	2	
+Child:3	with bonus:2	taken:1
+[Fill] - true : 1
+0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	
+Child:3	with bonus:2	taken:0
+1	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	
+Child:3	with bonus:2	taken:2
+[Fill] - true : 2
+1	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	
+Child:3	with bonus:2	taken:0
+1	1	0	15	
+~~~~~~~~~~~
+1	1	0	2	
+Child:3	with bonus:2	taken:1
+[Fill] - true : 1
+15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	
+Child:4	with bonus:3	taken:1
+[Fill] - true : 1
+0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	
+Child:4	with bonus:3	taken:0
+0	0	1	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	
+Child:4	with bonus:3	taken:1
+[Fill] - true : 1
+0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	
+Child:4	with bonus:3	taken:0
+0	1	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	
+Child:4	with bonus:3	taken:2
+[Fill] - true : 2
+0	1	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	
+Child:4	with bonus:3	taken:0
+0	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	
+Child:4	with bonus:3	taken:1
+[Fill] - true : 1
+0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	
+Child:4	with bonus:3	taken:0
+1	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	
+Child:4	with bonus:3	taken:2
+[Fill] - true : 2
+1	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	
+Child:4	with bonus:3	taken:0
+1	0	2	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	
+Child:4	with bonus:3	taken:2
+[Fill] - true : 2
+1	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	
+Child:4	with bonus:3	taken:0
+1	1	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	
+Child:4	with bonus:3	taken:2
+[Fill] - true : 2
+1	1	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	
+Child:4	with bonus:3	taken:0
+1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	
+Child:4	with bonus:3	taken:1
+[Fill] - true : 1
+15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	
+Child:5	with bonus:4	taken:1
+[Fill] - true : 1
+0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	
+Child:5	with bonus:4	taken:0
+0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	
+Child:5	with bonus:4	taken:1
+[Fill] - true : 1
+0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	
+Child:5	with bonus:4	taken:0
+0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+0	0	1	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	
+Child:5	with bonus:4	taken:0
+0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	
+Child:5	with bonus:4	taken:1
+[Fill] - true : 1
+0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	
+Child:5	with bonus:4	taken:0
+0	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+0	1	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	
+Child:5	with bonus:4	taken:0
+0	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+0	1	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	
+Child:5	with bonus:4	taken:0
+0	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+0	1	1	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	
+Child:5	with bonus:4	taken:0
+0	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	
+Child:5	with bonus:4	taken:1
+[Fill] - true : 1
+0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	
+Child:5	with bonus:4	taken:0
+1	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	
+Child:5	with bonus:4	taken:0
+1	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	
+Child:5	with bonus:4	taken:0
+1	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	
+Child:5	with bonus:4	taken:3
+[Fill] - true : 3
+1	0	2	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	
+Child:5	with bonus:4	taken:0
+1	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	
+Child:5	with bonus:4	taken:0
+1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	1	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	
+Child:5	with bonus:4	taken:0
+1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	1	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	
+Child:5	with bonus:4	taken:0
+1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	
+Child:5	with bonus:4	taken:2
+[Fill] - true : 2
+1	1	1	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	
+Child:5	with bonus:4	taken:0
+1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	
+Child:5	with bonus:4	taken:1
+[Fill] - true : 1
+15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	
+Child:6	with bonus:5	taken:0
+0	0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	
+Child:6	with bonus:5	taken:0
+0	0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	0	0	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	
+Child:6	with bonus:5	taken:0
+0	0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	
+Child:6	with bonus:5	taken:0
+0	0	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	0	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	
+Child:6	with bonus:5	taken:0
+0	0	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	0	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	
+Child:6	with bonus:5	taken:0
+0	0	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	0	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	
+Child:6	with bonus:5	taken:0
+0	0	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	
+Child:6	with bonus:5	taken:0
+0	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	
+Child:6	with bonus:5	taken:0
+0	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	
+Child:6	with bonus:5	taken:0
+0	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+0	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	
+Child:6	with bonus:5	taken:0
+0	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	
+Child:6	with bonus:5	taken:0
+0	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	
+Child:6	with bonus:5	taken:0
+0	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	
+Child:6	with bonus:5	taken:0
+0	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+0	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	
+Child:6	with bonus:5	taken:0
+0	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	
+Child:6	with bonus:5	taken:0
+1	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	
+Child:6	with bonus:5	taken:0
+1	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	
+Child:6	with bonus:5	taken:0
+1	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+1	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	
+Child:6	with bonus:5	taken:0
+1	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	
+Child:6	with bonus:5	taken:0
+1	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+1	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	
+Child:6	with bonus:5	taken:0
+1	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+1	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	
+Child:6	with bonus:5	taken:0
+1	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+1	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	
+Child:6	with bonus:5	taken:0
+1	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	
+Child:6	with bonus:5	taken:0
+1	1	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	
+Child:6	with bonus:5	taken:0
+1	1	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	
+Child:6	with bonus:5	taken:0
+1	1	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	
+Child:6	with bonus:5	taken:3
+[Fill] - true : 3
+1	1	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	
+Child:6	with bonus:5	taken:0
+1	1	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	
+Child:6	with bonus:5	taken:0
+1	1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	1	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	
+Child:6	with bonus:5	taken:0
+1	1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	1	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	
+Child:6	with bonus:5	taken:0
+1	1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	
+Child:6	with bonus:5	taken:2
+[Fill] - true : 2
+1	1	1	1	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	
+Child:6	with bonus:5	taken:0
+1	1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	
+Child:6	with bonus:5	taken:1
+[Fill] - true : 1
+15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	
+Child:7	with bonus:6	taken:0
+0	0	0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	
+Child:7	with bonus:6	taken:0
+0	0	0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	
+Child:7	with bonus:6	taken:0
+0	0	0	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	0	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	0	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	0	0	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	0	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	
+Child:7	with bonus:6	taken:0
+0	0	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+0	0	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	
+Child:7	with bonus:6	taken:0
+0	0	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	
+Child:7	with bonus:6	taken:0
+0	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+0	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	
+Child:7	with bonus:6	taken:0
+0	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	
+Child:7	with bonus:6	taken:0
+0	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	
+Child:7	with bonus:6	taken:0
+0	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+0	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	
+Child:7	with bonus:6	taken:0
+0	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	
+Child:7	with bonus:6	taken:0
+1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	
+Child:7	with bonus:6	taken:0
+1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	
+Child:7	with bonus:6	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	
+Child:7	with bonus:6	taken:0
+1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	
+Child:7	with bonus:6	taken:0
+1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	
+Child:7	with bonus:6	taken:0
+1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	
+Child:7	with bonus:6	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	
+Child:7	with bonus:6	taken:0
+1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	
+Child:7	with bonus:6	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	
+Child:7	with bonus:6	taken:0
+1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	
+Child:7	with bonus:6	taken:1
+[Fill] - true : 1
+15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	1	
+Child:8	with bonus:7	taken:0
+0	0	0	0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	1	
+Child:8	with bonus:7	taken:0
+0	0	0	0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	0	0	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	1	
+Child:8	with bonus:7	taken:0
+0	0	0	0	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	0	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	0	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	0	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	0	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	1	
+Child:8	with bonus:7	taken:0
+0	0	0	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	0	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	0	0	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	0	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	0	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	1	
+Child:8	with bonus:7	taken:0
+0	0	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	0	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+0	0	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+0	0	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	0	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	0	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	0	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	0	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	2	
+Child:8	with bonus:7	taken:0
+0	0	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	1	
+Child:8	with bonus:7	taken:0
+0	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+0	1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	4	
+Child:8	with bonus:7	taken:0
+0	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+0	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+0	1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+0	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+0	1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	2	
+Child:8	with bonus:7	taken:0
+0	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+0	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	1	
+Child:8	with bonus:7	taken:0
+1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	4	
+Child:8	with bonus:7	taken:0
+1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	2	0	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	4	
+Child:8	with bonus:7	taken:0
+1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	4	
+Child:8	with bonus:7	taken:0
+1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	5	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	4	
+Child:8	with bonus:7	taken:0
+1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	2	0	3	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	4	
+Child:8	with bonus:7	taken:0
+1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	0	2	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	4	
+Child:8	with bonus:7	taken:0
+1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	0	2	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	4	
+Child:8	with bonus:7	taken:4
+[Fill] - true : 4
+1	1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	4	
+Child:8	with bonus:7	taken:0
+1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	4	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	3	
+Child:8	with bonus:7	taken:0
+1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	3	
+Child:8	with bonus:7	taken:3
+[Fill] - true : 3
+1	1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	3	
+Child:8	with bonus:7	taken:0
+1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	3	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	2	
+Child:8	with bonus:7	taken:2
+[Fill] - true : 2
+1	1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	2	
+Child:8	with bonus:7	taken:0
+1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	2	
+Child:8	with bonus:7	taken:1
+[Fill] - true : 1
+15	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	1	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	0	1	1	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	1	1	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	0	0	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	1	1	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	0	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	0	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	0	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	0	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	1	1	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	0	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	0	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	0	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	1	1	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	0	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	0	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	0	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	1	1	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	0	1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	0	1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	0	1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	0	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	0	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	1	1	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	2	0	0	3	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	2	0	3	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	2	0	3	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	2	0	3	3	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	0	2	2	0	3	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	0	2	2	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+0	1	1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+0	1	1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+0	1	1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+0	1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+0	15	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	1	1	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	2	0	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	2	0	3	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	2	0	3	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	2	0	3	3	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	0	2	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	0	2	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	0	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	0	3	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	0	3	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	0	3	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	0	5	
+Child:9	with bonus:8	taken:5
+[Fill] - true : 5
+1	0	2	0	3	0	4	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	5	5	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	3	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	3	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	0	3	3	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	2	0	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	2	0	3	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	2	0	3	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	2	0	3	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	0	2	2	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	0	2	2	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	0	2	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	0	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	2	0	0	3	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	2	0	3	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	0	5	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	2	0	3	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	2	0	3	3	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	0	2	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	0	2	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	0	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	0	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	0	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	0	4	
+Child:9	with bonus:8	taken:4
+[Fill] - true : 4
+1	1	1	0	2	0	3	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	4	4	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	0	2	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	0	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	1	0	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	0	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	1	0	2	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	0	4	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	1	0	2	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	1	0	2	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	0	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	0	3	
+Child:9	with bonus:8	taken:3
+[Fill] - true : 3
+1	1	1	1	1	0	2	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	3	3	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	0	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	1	0	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	0	3	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	1	0	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	0	2	
+Child:9	with bonus:8	taken:2
+[Fill] - true : 2
+1	1	1	1	1	1	1	0	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	2	2	
+Child:9	with bonus:8	taken:0
+1	1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	0	2	
+Child:9	with bonus:8	taken:1
+[Fill] - true : 1
+15	15	15	15	15	15	15	15	15	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	1	1	
+0	0	0	0	0	0	0	0	0	1	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	0	0	1	2	
+0	0	0	0	0	0	0	0	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	0	1	0	2	
+0	0	0	0	0	0	0	0	1	1	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	0	1	1	2	
+0	0	0	0	0	0	0	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	0	0	2	
+0	0	0	0	0	0	0	1	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	0	2	3	
+0	0	0	0	0	0	0	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	1	0	2	
+0	0	0	0	0	0	0	1	1	1	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	0	1	1	1	2	
+0	0	0	0	0	0	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	0	0	2	
+0	0	0	0	0	0	1	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	0	2	3	
+0	0	0	0	0	0	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	2	0	3	
+0	0	0	0	0	0	1	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	0	2	2	3	
+0	0	0	0	0	0	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	0	0	2	
+0	0	0	0	0	0	1	1	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	0	2	3	
+0	0	0	0	0	0	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	1	0	2	
+0	0	0	0	0	0	1	1	1	1	15	
+~~~~~~~~~~~
+0	0	0	0	0	0	1	1	1	1	2	
+0	0	0	0	0	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	0	0	2	
+0	0	0	0	0	1	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	0	2	3	
+0	0	0	0	0	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	2	0	3	
+0	0	0	0	0	1	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	0	2	2	3	
+0	0	0	0	0	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	0	0	3	
+0	0	0	0	0	1	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	0	3	4	
+0	0	0	0	0	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	2	0	3	
+0	0	0	0	0	1	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	0	2	2	2	3	
+0	0	0	0	0	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	0	0	2	
+0	0	0	0	0	1	1	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	0	2	3	
+0	0	0	0	0	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	2	0	3	
+0	0	0	0	0	1	1	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	0	2	2	3	
+0	0	0	0	0	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	0	0	2	
+0	0	0	0	0	1	1	1	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	0	2	3	
+0	0	0	0	0	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	1	0	2	
+0	0	0	0	0	1	1	1	1	1	15	
+~~~~~~~~~~~
+0	0	0	0	0	1	1	1	1	1	2	
+0	0	0	0	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	0	0	2	
+0	0	0	0	1	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	0	2	3	
+0	0	0	0	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	2	0	3	
+0	0	0	0	1	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	0	2	2	3	
+0	0	0	0	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	0	0	3	
+0	0	0	0	1	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	0	3	4	
+0	0	0	0	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	2	0	3	
+0	0	0	0	1	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	0	2	2	2	3	
+0	0	0	0	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	0	0	3	
+0	0	0	0	1	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	0	3	4	
+0	0	0	0	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	3	0	4	
+0	0	0	0	1	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	0	3	3	4	
+0	0	0	0	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	0	0	3	
+0	0	0	0	1	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	0	3	4	
+0	0	0	0	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	2	0	3	
+0	0	0	0	1	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	0	2	2	2	2	3	
+0	0	0	0	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	0	0	2	
+0	0	0	0	1	1	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	0	2	3	
+0	0	0	0	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	2	0	3	
+0	0	0	0	1	1	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	0	2	2	3	
+0	0	0	0	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	0	0	3	
+0	0	0	0	1	1	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	0	3	4	
+0	0	0	0	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	2	0	3	
+0	0	0	0	1	1	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	0	2	2	2	3	
+0	0	0	0	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	0	0	2	
+0	0	0	0	1	1	1	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	0	2	3	
+0	0	0	0	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	2	0	3	
+0	0	0	0	1	1	1	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	0	2	2	3	
+0	0	0	0	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	0	0	2	
+0	0	0	0	1	1	1	1	0	2	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	0	2	3	
+0	0	0	0	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	1	0	2	
+0	0	0	0	1	1	1	1	1	1	15	
+~~~~~~~~~~~
+0	0	0	0	1	1	1	1	1	1	2	
+0	0	0	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	0	0	2	
+0	0	0	1	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	0	2	3	
+0	0	0	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	2	0	3	
+0	0	0	1	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	0	2	2	3	
+0	0	0	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	0	0	3	
+0	0	0	1	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	0	3	4	
+0	0	0	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	2	0	3	
+0	0	0	1	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	0	2	2	2	3	
+0	0	0	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	0	0	3	
+0	0	0	1	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	0	3	4	
+0	0	0	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	3	0	4	
+0	0	0	1	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	0	3	3	4	
+0	0	0	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	0	0	3	
+0	0	0	1	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	0	3	4	
+0	0	0	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	2	0	3	
+0	0	0	1	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	0	0	2	2	2	2	3	
+0	0	0	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	0	0	3	
+0	0	0	1	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	0	3	4	
+0	0	0	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	3	0	4	
+0	0	0	1	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	0	3	3	4	
+0	0	0	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	0	0	4	
+0	0	0	1	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	0	4	5	
+0	0	0	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	3	0	4	
+0	0	0	1	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	0	3	3	3	4	
+0	0	0	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	0	0	3	
+0	0	0	1	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	0	3	4	
+0	0	0	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	3	0	4	
+0	0	0	1	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	0	3	3	4	
+0	0	0	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	0	0	3	
+0	0	0	1	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	0	3	4	
+0	0	0	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	2	0	3	
+0	0	0	1	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	0	2	2	2	2	2	3	
+0	0	0	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	0	0	2	
+0	0	0	1	1	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	0	2	3	
+0	0	0	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	2	0	3	
+0	0	0	1	1	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	0	2	2	3	
+0	0	0	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	0	0	3	
+0	0	0	1	1	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	0	3	4	
+0	0	0	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	2	0	3	
+0	0	0	1	1	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	0	2	2	2	3	
+0	0	0	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	0	0	3	
+0	0	0	1	1	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	0	3	4	
+0	0	0	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	3	0	4	
+0	0	0	1	1	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	0	3	3	4	
+0	0	0	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	0	0	3	
+0	0	0	1	1	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	0	3	4	
+0	0	0	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	2	0	3	
+0	0	0	1	1	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	0	2	2	2	2	3	
+0	0	0	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	0	0	2	
+0	0	0	1	1	1	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	0	2	3	
+0	0	0	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	2	0	3	
+0	0	0	1	1	1	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	0	2	2	3	
+0	0	0	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	0	0	3	
+0	0	0	1	1	1	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	0	3	4	
+0	0	0	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	2	0	3	
+0	0	0	1	1	1	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	0	2	2	2	3	
+0	0	0	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	0	0	2	
+0	0	0	1	1	1	1	0	0	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	0	2	3	
+0	0	0	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	2	0	3	
+0	0	0	1	1	1	1	0	2	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	0	2	2	3	
+0	0	0	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	0	0	2	
+0	0	0	1	1	1	1	1	0	2	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	0	2	3	
+0	0	0	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	1	0	2	
+0	0	0	1	1	1	1	1	1	1	15	
+~~~~~~~~~~~
+0	0	0	1	1	1	1	1	1	1	2	
+0	0	1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	0	0	2	
+0	0	1	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	0	2	3	
+0	0	1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	2	0	3	
+0	0	1	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	0	2	2	3	
+0	0	1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	0	0	3	
+0	0	1	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	0	3	4	
+0	0	1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	2	0	3	
+0	0	1	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	0	2	2	2	3	
+0	0	1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	0	0	3	
+0	0	1	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	0	3	4	
+0	0	1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	3	0	4	
+0	0	1	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	0	3	3	4	
+0	0	1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	0	0	3	
+0	0	1	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	0	3	4	
+0	0	1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	2	0	3	
+0	0	1	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	0	0	0	2	2	2	2	3	
+0	0	1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	0	0	3	
+0	0	1	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	0	3	4	
+0	0	1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	3	0	4	
+0	0	1	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	0	3	3	4	
+0	0	1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	0	0	4	
+0	0	1	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	0	4	5	
+0	0	1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	3	0	4	
+0	0	1	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	0	3	3	3	4	
+0	0	1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	0	0	3	
+0	0	1	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	0	3	4	
+0	0	1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	3	0	4	
+0	0	1	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	0	3	3	4	
+0	0	1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	0	0	3	
+0	0	1	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	0	3	4	
+0	0	1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	2	0	3	
+0	0	1	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	0	0	2	2	2	2	2	3	
+0	0	1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	0	0	3	
+0	0	1	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	0	3	4	
+0	0	1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	3	0	4	
+0	0	1	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	0	3	3	4	
+0	0	1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	0	0	4	
+0	0	1	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	0	4	5	
+0	0	1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	3	0	4	
+0	0	1	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	0	3	3	3	4	
+0	0	1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	0	0	4	
+0	0	1	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	0	4	5	
+0	0	1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	4	0	5	
+0	0	1	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	0	4	4	5	
+0	0	1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	0	0	4	
+0	0	1	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	0	4	5	
+0	0	1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	3	0	4	
+0	0	1	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	0	3	3	3	3	4	
+0	0	1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	0	0	3	
+0	0	1	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	0	3	4	
+0	0	1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	3	0	4	
+0	0	1	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	0	3	3	4	
+0	0	1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	0	0	4	
+0	0	1	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	0	4	5	
+0	0	1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	3	0	4	
+0	0	1	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	0	3	3	3	4	
+0	0	1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	0	0	3	
+0	0	1	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	0	3	4	
+0	0	1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	3	0	4	
+0	0	1	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	0	3	3	4	
+0	0	1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	0	0	3	
+0	0	1	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	0	3	4	
+0	0	1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	2	0	3	
+0	0	1	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	0	2	2	2	2	2	2	3	
+0	0	1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	0	0	2	
+0	0	1	1	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	0	2	3	
+0	0	1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	2	0	3	
+0	0	1	1	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	0	2	2	3	
+0	0	1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	0	0	3	
+0	0	1	1	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	0	3	4	
+0	0	1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	2	0	3	
+0	0	1	1	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	0	2	2	2	3	
+0	0	1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	0	0	3	
+0	0	1	1	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	0	3	4	
+0	0	1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	3	0	4	
+0	0	1	1	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	0	3	3	4	
+0	0	1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	0	0	3	
+0	0	1	1	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	0	3	4	
+0	0	1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	2	0	3	
+0	0	1	1	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	0	0	2	2	2	2	3	
+0	0	1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	0	0	3	
+0	0	1	1	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	0	3	4	
+0	0	1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	3	0	4	
+0	0	1	1	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	0	3	3	4	
+0	0	1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	0	0	4	
+0	0	1	1	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	0	4	5	
+0	0	1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	3	0	4	
+0	0	1	1	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	0	3	3	3	4	
+0	0	1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	0	0	3	
+0	0	1	1	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	0	3	4	
+0	0	1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	3	0	4	
+0	0	1	1	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	0	3	3	4	
+0	0	1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	0	0	3	
+0	0	1	1	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	0	3	4	
+0	0	1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	2	0	3	
+0	0	1	1	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	0	2	2	2	2	2	3	
+0	0	1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	0	0	2	
+0	0	1	1	1	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	0	2	3	
+0	0	1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	2	0	3	
+0	0	1	1	1	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	0	2	2	3	
+0	0	1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	0	0	3	
+0	0	1	1	1	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	0	3	4	
+0	0	1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	2	0	3	
+0	0	1	1	1	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	0	2	2	2	3	
+0	0	1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	0	0	3	
+0	0	1	1	1	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	0	3	4	
+0	0	1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	3	0	4	
+0	0	1	1	1	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	0	3	3	4	
+0	0	1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	0	0	3	
+0	0	1	1	1	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	0	3	4	
+0	0	1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	2	0	3	
+0	0	1	1	1	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	0	2	2	2	2	3	
+0	0	1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	0	0	2	
+0	0	1	1	1	1	0	0	0	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	0	2	3	
+0	0	1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	2	0	3	
+0	0	1	1	1	1	0	0	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	0	2	2	3	
+0	0	1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	0	0	3	
+0	0	1	1	1	1	0	2	0	3	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	0	3	4	
+0	0	1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	2	0	3	
+0	0	1	1	1	1	0	2	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	0	2	2	2	3	
+0	0	1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	0	0	2	
+0	0	1	1	1	1	1	0	0	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	0	2	3	
+0	0	1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	2	0	3	
+0	0	1	1	1	1	1	0	2	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	0	2	2	3	
+0	0	1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	0	0	2	
+0	0	1	1	1	1	1	1	0	2	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	0	2	3	
+0	0	1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	1	0	2	
+0	0	1	1	1	1	1	1	1	1	15	
+~~~~~~~~~~~
+0	0	1	1	1	1	1	1	1	1	2	
+0	1	0	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	0	0	2	
+0	1	0	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	0	2	3	
+0	1	0	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	2	0	3	
+0	1	0	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	0	2	2	3	
+0	1	0	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	0	0	3	
+0	1	0	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	0	3	4	
+0	1	0	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	2	0	3	
+0	1	0	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	0	2	2	2	3	
+0	1	0	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	0	0	3	
+0	1	0	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	0	3	4	
+0	1	0	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	3	0	4	
+0	1	0	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	0	3	3	4	
+0	1	0	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	0	0	3	
+0	1	0	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	0	3	4	
+0	1	0	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	2	0	3	
+0	1	0	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	0	0	0	0	2	2	2	2	3	
+0	1	0	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	0	0	3	
+0	1	0	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	0	3	4	
+0	1	0	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	3	0	4	
+0	1	0	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	0	3	3	4	
+0	1	0	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	0	0	4	
+0	1	0	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	0	4	5	
+0	1	0	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	3	0	4	
+0	1	0	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	0	3	3	3	4	
+0	1	0	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	0	0	3	
+0	1	0	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	0	3	4	
+0	1	0	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	3	0	4	
+0	1	0	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	0	3	3	4	
+0	1	0	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	0	0	3	
+0	1	0	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	0	3	4	
+0	1	0	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	2	0	3	
+0	1	0	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	0	0	0	2	2	2	2	2	3	
+0	1	0	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	0	0	3	
+0	1	0	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	0	3	4	
+0	1	0	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	3	0	4	
+0	1	0	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	0	3	3	4	
+0	1	0	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	0	0	4	
+0	1	0	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	0	4	5	
+0	1	0	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	3	0	4	
+0	1	0	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	0	3	3	3	4	
+0	1	0	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	0	0	4	
+0	1	0	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	0	4	5	
+0	1	0	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	4	0	5	
+0	1	0	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	0	4	4	5	
+0	1	0	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	0	0	4	
+0	1	0	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	0	4	5	
+0	1	0	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	3	0	4	
+0	1	0	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	0	3	3	3	3	4	
+0	1	0	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	0	0	3	
+0	1	0	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	0	3	4	
+0	1	0	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	3	0	4	
+0	1	0	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	0	3	3	4	
+0	1	0	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	0	0	4	
+0	1	0	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	0	4	5	
+0	1	0	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	3	0	4	
+0	1	0	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	0	3	3	3	4	
+0	1	0	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	0	0	3	
+0	1	0	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	0	3	4	
+0	1	0	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	3	0	4	
+0	1	0	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	0	3	3	4	
+0	1	0	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	0	0	3	
+0	1	0	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	0	3	4	
+0	1	0	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	2	0	3	
+0	1	0	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	0	0	2	2	2	2	2	2	3	
+0	1	0	2	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	0	0	3	
+0	1	0	2	0	0	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	0	3	4	
+0	1	0	2	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	3	0	4	
+0	1	0	2	0	0	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	0	3	3	4	
+0	1	0	2	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	0	0	4	
+0	1	0	2	0	0	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	0	4	5	
+0	1	0	2	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	3	0	4	
+0	1	0	2	0	0	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	0	3	3	3	4	
+0	1	0	2	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	0	0	4	
+0	1	0	2	0	0	3	0	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	0	4	5	
+0	1	0	2	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	4	0	5	
+0	1	0	2	0	0	3	0	4	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	0	4	4	5	
+0	1	0	2	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	0	0	4	
+0	1	0	2	0	0	3	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	0	4	5	
+0	1	0	2	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	3	0	4	
+0	1	0	2	0	0	3	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	0	0	3	3	3	3	4	
+0	1	0	2	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	0	0	4	
+0	1	0	2	0	3	0	0	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	0	4	5	
+0	1	0	2	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	4	0	5	
+0	1	0	2	0	3	0	0	4	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	0	4	4	5	
+0	1	0	2	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	0	0	5	
+0	1	0	2	0	3	0	4	0	5	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	0	5	6	
+0	1	0	2	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	4	0	5	
+0	1	0	2	0	3	0	4	4	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	0	4	4	4	5	
+0	1	0	2	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	0	0	4	
+0	1	0	2	0	3	3	0	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	0	4	5	
+0	1	0	2	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	4	0	5	
+0	1	0	2	0	3	3	0	4	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	0	4	4	5	
+0	1	0	2	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	0	0	4	
+0	1	0	2	0	3	3	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	0	4	5	
+0	1	0	2	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	3	0	4	
+0	1	0	2	0	3	3	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	0	3	3	3	3	3	4	
+0	1	0	2	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	0	0	3	
+0	1	0	2	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	0	3	4	
+0	1	0	2	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	3	0	4	
+0	1	0	2	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	0	3	3	4	
+0	1	0	2	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	0	0	4	
+0	1	0	2	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	0	4	5	
+0	1	0	2	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	3	0	4	
+0	1	0	2	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	0	3	3	3	4	
+0	1	0	2	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	0	0	4	
+0	1	0	2	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	0	4	5	
+0	1	0	2	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	4	0	5	
+0	1	0	2	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	0	4	4	5	
+0	1	0	2	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	0	0	4	
+0	1	0	2	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	0	4	5	
+0	1	0	2	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	3	0	4	
+0	1	0	2	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	0	3	3	3	3	4	
+0	1	0	2	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	0	0	3	
+0	1	0	2	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	0	3	4	
+0	1	0	2	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	3	0	4	
+0	1	0	2	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	0	3	3	4	
+0	1	0	2	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	0	0	4	
+0	1	0	2	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	0	4	5	
+0	1	0	2	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	3	0	4	
+0	1	0	2	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	0	3	3	3	4	
+0	1	0	2	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	0	0	3	
+0	1	0	2	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	0	3	4	
+0	1	0	2	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	3	0	4	
+0	1	0	2	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	0	3	3	4	
+0	1	0	2	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	0	0	3	
+0	1	0	2	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	0	3	4	
+0	1	0	2	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	2	0	3	
+0	1	0	2	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	0	2	2	2	2	2	2	2	3	
+0	1	1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	0	0	2	
+0	1	1	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	0	2	3	
+0	1	1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	2	0	3	
+0	1	1	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	0	2	2	3	
+0	1	1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	0	0	3	
+0	1	1	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	0	3	4	
+0	1	1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	2	0	3	
+0	1	1	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	0	2	2	2	3	
+0	1	1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	0	0	3	
+0	1	1	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	0	3	4	
+0	1	1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	3	0	4	
+0	1	1	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	0	3	3	4	
+0	1	1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	0	0	3	
+0	1	1	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	0	3	4	
+0	1	1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	2	0	3	
+0	1	1	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	0	0	0	2	2	2	2	3	
+0	1	1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	0	0	3	
+0	1	1	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	0	3	4	
+0	1	1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	3	0	4	
+0	1	1	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	0	3	3	4	
+0	1	1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	0	0	4	
+0	1	1	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	0	4	5	
+0	1	1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	3	0	4	
+0	1	1	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	0	3	3	3	4	
+0	1	1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	0	0	3	
+0	1	1	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	0	3	4	
+0	1	1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	3	0	4	
+0	1	1	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	0	3	3	4	
+0	1	1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	0	0	3	
+0	1	1	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	0	3	4	
+0	1	1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	2	0	3	
+0	1	1	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	0	0	2	2	2	2	2	3	
+0	1	1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	0	0	3	
+0	1	1	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	0	3	4	
+0	1	1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	3	0	4	
+0	1	1	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	0	3	3	4	
+0	1	1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	0	0	4	
+0	1	1	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	0	4	5	
+0	1	1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	3	0	4	
+0	1	1	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	0	3	3	3	4	
+0	1	1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	0	0	4	
+0	1	1	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	0	4	5	
+0	1	1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	4	0	5	
+0	1	1	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	0	4	4	5	
+0	1	1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	0	0	4	
+0	1	1	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	0	4	5	
+0	1	1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	3	0	4	
+0	1	1	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	0	3	3	3	3	4	
+0	1	1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	0	0	3	
+0	1	1	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	0	3	4	
+0	1	1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	3	0	4	
+0	1	1	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	0	3	3	4	
+0	1	1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	0	0	4	
+0	1	1	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	0	4	5	
+0	1	1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	3	0	4	
+0	1	1	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	0	3	3	3	4	
+0	1	1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	0	0	3	
+0	1	1	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	0	3	4	
+0	1	1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	3	0	4	
+0	1	1	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	0	3	3	4	
+0	1	1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	0	0	3	
+0	1	1	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	0	3	4	
+0	1	1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	2	0	3	
+0	1	1	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	0	2	2	2	2	2	2	3	
+0	1	1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	0	0	2	
+0	1	1	1	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	0	2	3	
+0	1	1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	2	0	3	
+0	1	1	1	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	0	2	2	3	
+0	1	1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	0	0	3	
+0	1	1	1	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	0	3	4	
+0	1	1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	2	0	3	
+0	1	1	1	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	0	2	2	2	3	
+0	1	1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	0	0	3	
+0	1	1	1	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	0	3	4	
+0	1	1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	3	0	4	
+0	1	1	1	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	0	3	3	4	
+0	1	1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	0	0	3	
+0	1	1	1	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	0	3	4	
+0	1	1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	2	0	3	
+0	1	1	1	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	0	0	2	2	2	2	3	
+0	1	1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	0	0	3	
+0	1	1	1	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	0	3	4	
+0	1	1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	3	0	4	
+0	1	1	1	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	0	3	3	4	
+0	1	1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	0	0	4	
+0	1	1	1	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	0	4	5	
+0	1	1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	3	0	4	
+0	1	1	1	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	0	3	3	3	4	
+0	1	1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	0	0	3	
+0	1	1	1	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	0	3	4	
+0	1	1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	3	0	4	
+0	1	1	1	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	0	3	3	4	
+0	1	1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	0	0	3	
+0	1	1	1	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	0	3	4	
+0	1	1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	2	0	3	
+0	1	1	1	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	0	2	2	2	2	2	3	
+0	1	1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	0	0	2	
+0	1	1	1	1	0	0	0	0	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	0	2	3	
+0	1	1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	2	0	3	
+0	1	1	1	1	0	0	0	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	0	2	2	3	
+0	1	1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	0	0	3	
+0	1	1	1	1	0	0	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	0	3	4	
+0	1	1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	2	0	3	
+0	1	1	1	1	0	0	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	0	2	2	2	3	
+0	1	1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	0	0	3	
+0	1	1	1	1	0	2	0	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	0	3	4	
+0	1	1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	3	0	4	
+0	1	1	1	1	0	2	0	3	3	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	0	3	3	4	
+0	1	1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	0	0	3	
+0	1	1	1	1	0	2	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	0	3	4	
+0	1	1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	2	0	3	
+0	1	1	1	1	0	2	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	0	2	2	2	2	3	
+0	1	1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	0	0	2	
+0	1	1	1	1	1	0	0	0	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	0	2	3	
+0	1	1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	2	0	3	
+0	1	1	1	1	1	0	0	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	0	2	2	3	
+0	1	1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	0	0	3	
+0	1	1	1	1	1	0	2	0	3	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	0	3	4	
+0	1	1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	2	0	3	
+0	1	1	1	1	1	0	2	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	0	2	2	2	3	
+0	1	1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	0	0	2	
+0	1	1	1	1	1	1	0	0	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	0	2	3	
+0	1	1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	2	0	3	
+0	1	1	1	1	1	1	0	2	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	0	2	2	3	
+0	1	1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	0	0	2	
+0	1	1	1	1	1	1	1	0	2	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	0	2	3	
+0	1	1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	1	0	2	
+0	1	1	1	1	1	1	1	1	1	15	
+~~~~~~~~~~~
+0	1	1	1	1	1	1	1	1	1	2	
+1	0	0	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	0	0	2	
+1	0	0	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	0	2	3	
+1	0	0	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	2	0	3	
+1	0	0	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	0	2	2	3	
+1	0	0	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	0	0	3	
+1	0	0	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	0	3	4	
+1	0	0	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	2	0	3	
+1	0	0	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	0	2	2	2	3	
+1	0	0	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	0	0	3	
+1	0	0	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	0	3	4	
+1	0	0	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	3	0	4	
+1	0	0	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	0	3	3	4	
+1	0	0	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	0	0	3	
+1	0	0	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	0	3	4	
+1	0	0	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	2	0	3	
+1	0	0	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+1	0	0	0	0	0	2	2	2	2	3	
+1	0	0	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	0	0	3	
+1	0	0	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	0	3	4	
+1	0	0	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	3	0	4	
+1	0	0	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	0	3	3	4	
+1	0	0	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	0	0	4	
+1	0	0	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	0	4	5	
+1	0	0	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	3	0	4	
+1	0	0	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	0	3	3	3	4	
+1	0	0	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	0	0	3	
+1	0	0	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	0	3	4	
+1	0	0	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	3	0	4	
+1	0	0	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	0	3	3	4	
+1	0	0	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	0	0	3	
+1	0	0	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	0	3	4	
+1	0	0	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	2	0	3	
+1	0	0	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	0	0	0	0	2	2	2	2	2	3	
+1	0	0	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	0	0	3	
+1	0	0	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	0	3	4	
+1	0	0	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	3	0	4	
+1	0	0	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	0	3	3	4	
+1	0	0	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	0	0	4	
+1	0	0	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	0	4	5	
+1	0	0	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	3	0	4	
+1	0	0	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	0	3	3	3	4	
+1	0	0	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	0	0	4	
+1	0	0	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	0	4	5	
+1	0	0	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	4	0	5	
+1	0	0	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	0	4	4	5	
+1	0	0	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	0	0	4	
+1	0	0	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	0	4	5	
+1	0	0	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	3	0	4	
+1	0	0	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	0	3	3	3	3	4	
+1	0	0	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	0	0	3	
+1	0	0	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	0	3	4	
+1	0	0	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	3	0	4	
+1	0	0	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	0	3	3	4	
+1	0	0	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	0	0	4	
+1	0	0	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	0	4	5	
+1	0	0	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	3	0	4	
+1	0	0	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	0	3	3	3	4	
+1	0	0	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	0	0	3	
+1	0	0	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	0	3	4	
+1	0	0	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	3	0	4	
+1	0	0	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	0	3	3	4	
+1	0	0	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	0	0	3	
+1	0	0	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	0	3	4	
+1	0	0	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	2	0	3	
+1	0	0	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	0	0	0	2	2	2	2	2	2	3	
+1	0	0	2	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	0	0	3	
+1	0	0	2	0	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	0	3	4	
+1	0	0	2	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	3	0	4	
+1	0	0	2	0	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	0	3	3	4	
+1	0	0	2	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	0	0	4	
+1	0	0	2	0	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	0	4	5	
+1	0	0	2	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	3	0	4	
+1	0	0	2	0	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	0	3	3	3	4	
+1	0	0	2	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	0	0	4	
+1	0	0	2	0	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	0	4	5	
+1	0	0	2	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	4	0	5	
+1	0	0	2	0	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	0	4	4	5	
+1	0	0	2	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	0	0	4	
+1	0	0	2	0	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	0	4	5	
+1	0	0	2	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	3	0	4	
+1	0	0	2	0	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	0	0	3	3	3	3	4	
+1	0	0	2	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	0	0	4	
+1	0	0	2	0	3	0	0	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	0	4	5	
+1	0	0	2	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	4	0	5	
+1	0	0	2	0	3	0	0	4	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	0	4	4	5	
+1	0	0	2	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	0	0	5	
+1	0	0	2	0	3	0	4	0	5	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	0	5	6	
+1	0	0	2	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	4	0	5	
+1	0	0	2	0	3	0	4	4	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	0	4	4	4	5	
+1	0	0	2	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	0	0	4	
+1	0	0	2	0	3	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	0	4	5	
+1	0	0	2	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	4	0	5	
+1	0	0	2	0	3	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	0	4	4	5	
+1	0	0	2	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	0	0	4	
+1	0	0	2	0	3	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	0	4	5	
+1	0	0	2	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	3	0	4	
+1	0	0	2	0	3	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	0	3	3	3	3	3	4	
+1	0	0	2	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	0	0	3	
+1	0	0	2	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	0	3	4	
+1	0	0	2	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	3	0	4	
+1	0	0	2	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	0	3	3	4	
+1	0	0	2	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	0	0	4	
+1	0	0	2	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	0	4	5	
+1	0	0	2	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	3	0	4	
+1	0	0	2	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	0	3	3	3	4	
+1	0	0	2	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	0	0	4	
+1	0	0	2	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	0	4	5	
+1	0	0	2	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	4	0	5	
+1	0	0	2	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	0	4	4	5	
+1	0	0	2	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	0	0	4	
+1	0	0	2	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	0	4	5	
+1	0	0	2	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	3	0	4	
+1	0	0	2	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	0	3	3	3	3	4	
+1	0	0	2	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	0	0	3	
+1	0	0	2	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	0	3	4	
+1	0	0	2	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	3	0	4	
+1	0	0	2	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	0	3	3	4	
+1	0	0	2	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	0	0	4	
+1	0	0	2	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	0	4	5	
+1	0	0	2	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	3	0	4	
+1	0	0	2	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	0	3	3	3	4	
+1	0	0	2	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	0	0	3	
+1	0	0	2	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	0	3	4	
+1	0	0	2	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	3	0	4	
+1	0	0	2	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	0	3	3	4	
+1	0	0	2	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	0	0	3	
+1	0	0	2	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	0	3	4	
+1	0	0	2	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	2	0	3	
+1	0	0	2	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	0	0	2	2	2	2	2	2	2	3	
+1	0	2	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	0	0	3	
+1	0	2	0	0	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	0	3	4	
+1	0	2	0	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	3	0	4	
+1	0	2	0	0	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	0	3	3	4	
+1	0	2	0	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	0	0	4	
+1	0	2	0	0	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	0	4	5	
+1	0	2	0	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	3	0	4	
+1	0	2	0	0	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	0	3	3	3	4	
+1	0	2	0	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	0	0	4	
+1	0	2	0	0	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	0	4	5	
+1	0	2	0	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	4	0	5	
+1	0	2	0	0	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	0	4	4	5	
+1	0	2	0	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	0	0	4	
+1	0	2	0	0	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	0	4	5	
+1	0	2	0	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	3	0	4	
+1	0	2	0	0	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	0	0	0	3	3	3	3	4	
+1	0	2	0	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	0	0	4	
+1	0	2	0	0	3	0	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	0	4	5	
+1	0	2	0	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	4	0	5	
+1	0	2	0	0	3	0	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	0	4	4	5	
+1	0	2	0	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	0	0	5	
+1	0	2	0	0	3	0	4	0	5	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	0	5	6	
+1	0	2	0	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	4	0	5	
+1	0	2	0	0	3	0	4	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	0	4	4	4	5	
+1	0	2	0	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	0	0	4	
+1	0	2	0	0	3	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	0	4	5	
+1	0	2	0	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	4	0	5	
+1	0	2	0	0	3	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	0	4	4	5	
+1	0	2	0	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	0	0	4	
+1	0	2	0	0	3	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	0	4	5	
+1	0	2	0	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	3	0	4	
+1	0	2	0	0	3	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	0	0	3	3	3	3	3	4	
+1	0	2	0	3	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	0	0	4	
+1	0	2	0	3	0	0	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	0	4	5	
+1	0	2	0	3	0	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	4	0	5	
+1	0	2	0	3	0	0	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	0	4	4	5	
+1	0	2	0	3	0	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	0	0	5	
+1	0	2	0	3	0	0	4	0	5	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	0	5	6	
+1	0	2	0	3	0	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	4	0	5	
+1	0	2	0	3	0	0	4	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	0	4	4	4	5	
+1	0	2	0	3	0	4	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	0	0	5	
+1	0	2	0	3	0	4	0	0	5	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	0	5	6	
+1	0	2	0	3	0	4	0	5	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	5	0	6	
+1	0	2	0	3	0	4	0	5	5	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	0	5	5	6	
+1	0	2	0	3	0	4	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	0	0	5	
+1	0	2	0	3	0	4	4	0	5	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	0	5	6	
+1	0	2	0	3	0	4	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	4	0	5	
+1	0	2	0	3	0	4	4	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	0	4	4	4	4	5	
+1	0	2	0	3	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	0	0	4	
+1	0	2	0	3	3	0	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	0	4	5	
+1	0	2	0	3	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	4	0	5	
+1	0	2	0	3	3	0	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	0	4	4	5	
+1	0	2	0	3	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	0	0	5	
+1	0	2	0	3	3	0	4	0	5	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	0	5	6	
+1	0	2	0	3	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	4	0	5	
+1	0	2	0	3	3	0	4	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	0	4	4	4	5	
+1	0	2	0	3	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	0	0	4	
+1	0	2	0	3	3	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	0	4	5	
+1	0	2	0	3	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	4	0	5	
+1	0	2	0	3	3	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	0	4	4	5	
+1	0	2	0	3	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	0	0	4	
+1	0	2	0	3	3	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	0	4	5	
+1	0	2	0	3	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	3	0	4	
+1	0	2	0	3	3	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	0	3	3	3	3	3	3	4	
+1	0	2	2	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	0	0	3	
+1	0	2	2	0	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	0	3	4	
+1	0	2	2	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	3	0	4	
+1	0	2	2	0	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	0	3	3	4	
+1	0	2	2	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	0	0	4	
+1	0	2	2	0	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	0	4	5	
+1	0	2	2	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	3	0	4	
+1	0	2	2	0	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	0	3	3	3	4	
+1	0	2	2	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	0	0	4	
+1	0	2	2	0	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	0	4	5	
+1	0	2	2	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	4	0	5	
+1	0	2	2	0	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	0	4	4	5	
+1	0	2	2	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	0	0	4	
+1	0	2	2	0	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	0	4	5	
+1	0	2	2	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	3	0	4	
+1	0	2	2	0	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	0	0	3	3	3	3	4	
+1	0	2	2	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	0	0	4	
+1	0	2	2	0	3	0	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	0	4	5	
+1	0	2	2	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	4	0	5	
+1	0	2	2	0	3	0	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	0	4	4	5	
+1	0	2	2	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	0	0	5	
+1	0	2	2	0	3	0	4	0	5	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	0	5	6	
+1	0	2	2	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	4	0	5	
+1	0	2	2	0	3	0	4	4	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	0	4	4	4	5	
+1	0	2	2	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	0	0	4	
+1	0	2	2	0	3	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	0	4	5	
+1	0	2	2	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	4	0	5	
+1	0	2	2	0	3	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	0	4	4	5	
+1	0	2	2	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	0	0	4	
+1	0	2	2	0	3	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	0	4	5	
+1	0	2	2	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	3	0	4	
+1	0	2	2	0	3	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	0	3	3	3	3	3	4	
+1	0	2	2	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	0	0	3	
+1	0	2	2	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	0	3	4	
+1	0	2	2	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	3	0	4	
+1	0	2	2	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	0	3	3	4	
+1	0	2	2	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	0	0	4	
+1	0	2	2	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	0	4	5	
+1	0	2	2	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	3	0	4	
+1	0	2	2	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	0	3	3	3	4	
+1	0	2	2	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	0	0	4	
+1	0	2	2	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	0	4	5	
+1	0	2	2	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	4	0	5	
+1	0	2	2	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	0	4	4	5	
+1	0	2	2	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	0	0	4	
+1	0	2	2	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	0	4	5	
+1	0	2	2	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	3	0	4	
+1	0	2	2	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	0	3	3	3	3	4	
+1	0	2	2	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	0	0	3	
+1	0	2	2	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	0	3	4	
+1	0	2	2	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	3	0	4	
+1	0	2	2	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	0	3	3	4	
+1	0	2	2	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	0	0	4	
+1	0	2	2	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	0	4	5	
+1	0	2	2	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	3	0	4	
+1	0	2	2	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	0	3	3	3	4	
+1	0	2	2	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	0	0	3	
+1	0	2	2	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	0	3	4	
+1	0	2	2	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	3	0	4	
+1	0	2	2	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	0	3	3	4	
+1	0	2	2	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	0	0	3	
+1	0	2	2	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	0	3	4	
+1	0	2	2	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	2	0	3	
+1	0	2	2	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	0	2	2	2	2	2	2	2	2	3	
+1	1	0	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	0	0	2	
+1	1	0	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	0	2	3	
+1	1	0	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	2	0	3	
+1	1	0	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	0	2	2	3	
+1	1	0	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	0	0	3	
+1	1	0	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	0	3	4	
+1	1	0	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	2	0	3	
+1	1	0	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	0	2	2	2	3	
+1	1	0	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	0	0	3	
+1	1	0	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	0	3	4	
+1	1	0	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	3	0	4	
+1	1	0	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	0	3	3	4	
+1	1	0	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	0	0	3	
+1	1	0	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	0	3	4	
+1	1	0	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	2	0	3	
+1	1	0	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	0	0	0	0	2	2	2	2	3	
+1	1	0	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	0	0	3	
+1	1	0	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	0	3	4	
+1	1	0	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	3	0	4	
+1	1	0	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	0	3	3	4	
+1	1	0	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	0	0	4	
+1	1	0	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	0	4	5	
+1	1	0	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	3	0	4	
+1	1	0	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	0	3	3	3	4	
+1	1	0	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	0	0	3	
+1	1	0	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	0	3	4	
+1	1	0	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	3	0	4	
+1	1	0	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	0	3	3	4	
+1	1	0	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	0	0	3	
+1	1	0	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	0	3	4	
+1	1	0	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	2	0	3	
+1	1	0	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	0	0	0	2	2	2	2	2	3	
+1	1	0	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	0	0	3	
+1	1	0	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	0	3	4	
+1	1	0	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	3	0	4	
+1	1	0	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	0	3	3	4	
+1	1	0	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	0	0	4	
+1	1	0	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	0	4	5	
+1	1	0	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	3	0	4	
+1	1	0	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	0	3	3	3	4	
+1	1	0	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	0	0	4	
+1	1	0	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	0	4	5	
+1	1	0	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	4	0	5	
+1	1	0	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	0	4	4	5	
+1	1	0	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	0	0	4	
+1	1	0	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	0	4	5	
+1	1	0	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	3	0	4	
+1	1	0	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	0	3	3	3	3	4	
+1	1	0	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	0	0	3	
+1	1	0	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	0	3	4	
+1	1	0	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	3	0	4	
+1	1	0	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	0	3	3	4	
+1	1	0	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	0	0	4	
+1	1	0	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	0	4	5	
+1	1	0	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	3	0	4	
+1	1	0	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	0	3	3	3	4	
+1	1	0	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	0	0	3	
+1	1	0	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	0	3	4	
+1	1	0	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	3	0	4	
+1	1	0	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	0	3	3	4	
+1	1	0	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	0	0	3	
+1	1	0	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	0	3	4	
+1	1	0	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	2	0	3	
+1	1	0	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	0	0	2	2	2	2	2	2	3	
+1	1	0	2	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	0	0	3	
+1	1	0	2	0	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	0	3	4	
+1	1	0	2	0	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	3	0	4	
+1	1	0	2	0	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	0	3	3	4	
+1	1	0	2	0	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	0	0	4	
+1	1	0	2	0	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	0	4	5	
+1	1	0	2	0	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	3	0	4	
+1	1	0	2	0	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	0	3	3	3	4	
+1	1	0	2	0	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	0	0	4	
+1	1	0	2	0	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	0	4	5	
+1	1	0	2	0	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	4	0	5	
+1	1	0	2	0	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	0	4	4	5	
+1	1	0	2	0	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	0	0	4	
+1	1	0	2	0	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	0	4	5	
+1	1	0	2	0	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	3	0	4	
+1	1	0	2	0	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	0	0	3	3	3	3	4	
+1	1	0	2	0	3	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	0	0	4	
+1	1	0	2	0	3	0	0	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	0	4	5	
+1	1	0	2	0	3	0	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	4	0	5	
+1	1	0	2	0	3	0	0	4	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	0	4	4	5	
+1	1	0	2	0	3	0	4	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	0	0	5	
+1	1	0	2	0	3	0	4	0	5	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	0	5	6	
+1	1	0	2	0	3	0	4	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	4	0	5	
+1	1	0	2	0	3	0	4	4	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	0	4	4	4	5	
+1	1	0	2	0	3	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	0	0	4	
+1	1	0	2	0	3	3	0	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	0	4	5	
+1	1	0	2	0	3	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	4	0	5	
+1	1	0	2	0	3	3	0	4	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	0	4	4	5	
+1	1	0	2	0	3	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	0	0	4	
+1	1	0	2	0	3	3	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	0	4	5	
+1	1	0	2	0	3	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	3	0	4	
+1	1	0	2	0	3	3	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	0	3	3	3	3	3	4	
+1	1	0	2	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	0	0	3	
+1	1	0	2	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	0	3	4	
+1	1	0	2	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	3	0	4	
+1	1	0	2	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	0	3	3	4	
+1	1	0	2	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	0	0	4	
+1	1	0	2	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	0	4	5	
+1	1	0	2	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	3	0	4	
+1	1	0	2	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	0	3	3	3	4	
+1	1	0	2	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	0	0	4	
+1	1	0	2	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	0	4	5	
+1	1	0	2	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	4	0	5	
+1	1	0	2	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	0	4	4	5	
+1	1	0	2	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	0	0	4	
+1	1	0	2	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	0	4	5	
+1	1	0	2	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	3	0	4	
+1	1	0	2	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	0	3	3	3	3	4	
+1	1	0	2	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	0	0	3	
+1	1	0	2	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	0	3	4	
+1	1	0	2	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	3	0	4	
+1	1	0	2	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	0	3	3	4	
+1	1	0	2	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	0	0	4	
+1	1	0	2	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	0	4	5	
+1	1	0	2	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	3	0	4	
+1	1	0	2	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	0	3	3	3	4	
+1	1	0	2	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	0	0	3	
+1	1	0	2	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	0	3	4	
+1	1	0	2	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	3	0	4	
+1	1	0	2	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	0	3	3	4	
+1	1	0	2	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	0	0	3	
+1	1	0	2	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	0	3	4	
+1	1	0	2	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	2	0	3	
+1	1	0	2	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	0	2	2	2	2	2	2	2	3	
+1	1	1	0	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	0	0	2	
+1	1	1	0	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	0	2	3	
+1	1	1	0	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	2	0	3	
+1	1	1	0	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	0	2	2	3	
+1	1	1	0	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	0	0	3	
+1	1	1	0	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	0	3	4	
+1	1	1	0	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	2	0	3	
+1	1	1	0	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	0	2	2	2	3	
+1	1	1	0	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	0	0	3	
+1	1	1	0	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	0	3	4	
+1	1	1	0	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	3	0	4	
+1	1	1	0	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	0	3	3	4	
+1	1	1	0	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	0	0	3	
+1	1	1	0	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	0	3	4	
+1	1	1	0	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	2	0	3	
+1	1	1	0	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	0	0	0	2	2	2	2	3	
+1	1	1	0	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	0	0	3	
+1	1	1	0	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	0	3	4	
+1	1	1	0	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	3	0	4	
+1	1	1	0	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	0	3	3	4	
+1	1	1	0	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	0	0	4	
+1	1	1	0	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	0	4	5	
+1	1	1	0	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	3	0	4	
+1	1	1	0	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	0	3	3	3	4	
+1	1	1	0	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	0	0	3	
+1	1	1	0	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	0	3	4	
+1	1	1	0	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	3	0	4	
+1	1	1	0	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	0	3	3	4	
+1	1	1	0	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	0	0	3	
+1	1	1	0	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	0	3	4	
+1	1	1	0	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	2	0	3	
+1	1	1	0	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	0	0	2	2	2	2	2	3	
+1	1	1	0	2	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	0	0	3	
+1	1	1	0	2	0	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	0	3	4	
+1	1	1	0	2	0	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	3	0	4	
+1	1	1	0	2	0	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	0	3	3	4	
+1	1	1	0	2	0	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	0	0	4	
+1	1	1	0	2	0	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	0	4	5	
+1	1	1	0	2	0	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	3	0	4	
+1	1	1	0	2	0	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	0	3	3	3	4	
+1	1	1	0	2	0	3	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	0	0	4	
+1	1	1	0	2	0	3	0	0	4	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	0	4	5	
+1	1	1	0	2	0	3	0	4	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	4	0	5	
+1	1	1	0	2	0	3	0	4	4	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	0	4	4	5	
+1	1	1	0	2	0	3	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	0	0	4	
+1	1	1	0	2	0	3	3	0	4	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	0	4	5	
+1	1	1	0	2	0	3	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	3	0	4	
+1	1	1	0	2	0	3	3	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	0	3	3	3	3	4	
+1	1	1	0	2	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	0	0	3	
+1	1	1	0	2	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	0	3	4	
+1	1	1	0	2	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	3	0	4	
+1	1	1	0	2	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	0	3	3	4	
+1	1	1	0	2	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	0	0	4	
+1	1	1	0	2	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	0	4	5	
+1	1	1	0	2	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	3	0	4	
+1	1	1	0	2	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	0	3	3	3	4	
+1	1	1	0	2	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	0	0	3	
+1	1	1	0	2	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	0	3	4	
+1	1	1	0	2	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	3	0	4	
+1	1	1	0	2	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	0	3	3	4	
+1	1	1	0	2	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	0	0	3	
+1	1	1	0	2	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	0	3	4	
+1	1	1	0	2	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	2	0	3	
+1	1	1	0	2	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	0	2	2	2	2	2	2	3	
+1	1	1	1	0	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	0	0	2	
+1	1	1	1	0	0	0	0	0	2	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	0	2	3	
+1	1	1	1	0	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	2	0	3	
+1	1	1	1	0	0	0	0	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	0	2	2	3	
+1	1	1	1	0	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	0	0	3	
+1	1	1	1	0	0	0	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	0	3	4	
+1	1	1	1	0	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	2	0	3	
+1	1	1	1	0	0	0	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	0	2	2	2	3	
+1	1	1	1	0	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	0	0	3	
+1	1	1	1	0	0	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	0	3	4	
+1	1	1	1	0	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	3	0	4	
+1	1	1	1	0	0	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	0	3	3	4	
+1	1	1	1	0	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	0	0	3	
+1	1	1	1	0	0	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	0	3	4	
+1	1	1	1	0	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	2	0	3	
+1	1	1	1	0	0	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	0	0	2	2	2	2	3	
+1	1	1	1	0	2	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	0	0	3	
+1	1	1	1	0	2	0	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	0	3	4	
+1	1	1	1	0	2	0	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	3	0	4	
+1	1	1	1	0	2	0	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	0	3	3	4	
+1	1	1	1	0	2	0	3	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	0	0	4	
+1	1	1	1	0	2	0	3	0	4	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	0	4	5	
+1	1	1	1	0	2	0	3	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	3	0	4	
+1	1	1	1	0	2	0	3	3	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	0	3	3	3	4	
+1	1	1	1	0	2	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	0	0	3	
+1	1	1	1	0	2	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	0	3	4	
+1	1	1	1	0	2	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	3	0	4	
+1	1	1	1	0	2	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	0	3	3	4	
+1	1	1	1	0	2	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	0	0	3	
+1	1	1	1	0	2	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	0	3	4	
+1	1	1	1	0	2	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	2	0	3	
+1	1	1	1	0	2	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	0	2	2	2	2	2	3	
+1	1	1	1	1	0	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	0	0	2	
+1	1	1	1	1	0	0	0	0	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	0	2	3	
+1	1	1	1	1	0	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	2	0	3	
+1	1	1	1	1	0	0	0	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	0	2	2	3	
+1	1	1	1	1	0	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	0	0	3	
+1	1	1	1	1	0	0	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	0	3	4	
+1	1	1	1	1	0	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	2	0	3	
+1	1	1	1	1	0	0	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	0	2	2	2	3	
+1	1	1	1	1	0	2	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	0	0	3	
+1	1	1	1	1	0	2	0	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	0	3	4	
+1	1	1	1	1	0	2	0	3	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	3	0	4	
+1	1	1	1	1	0	2	0	3	3	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	0	3	3	4	
+1	1	1	1	1	0	2	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	0	0	3	
+1	1	1	1	1	0	2	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	0	3	4	
+1	1	1	1	1	0	2	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	2	0	3	
+1	1	1	1	1	0	2	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	0	2	2	2	2	3	
+1	1	1	1	1	1	0	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	0	0	2	
+1	1	1	1	1	1	0	0	0	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	0	2	3	
+1	1	1	1	1	1	0	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	2	0	3	
+1	1	1	1	1	1	0	0	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	0	2	2	3	
+1	1	1	1	1	1	0	2	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	0	0	3	
+1	1	1	1	1	1	0	2	0	3	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	0	3	4	
+1	1	1	1	1	1	0	2	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	2	0	3	
+1	1	1	1	1	1	0	2	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	0	2	2	2	3	
+1	1	1	1	1	1	1	0	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	0	0	2	
+1	1	1	1	1	1	1	0	0	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	0	2	3	
+1	1	1	1	1	1	1	0	2	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	2	0	3	
+1	1	1	1	1	1	1	0	2	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	0	2	2	3	
+1	1	1	1	1	1	1	1	0	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	0	0	2	
+1	1	1	1	1	1	1	1	0	2	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	0	2	3	
+1	1	1	1	1	1	1	1	1	0	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	1	0	2	
+1	1	1	1	1	1	1	1	1	1	15	
+~~~~~~~~~~~
+1	1	1	1	1	1	1	1	1	1	2	
