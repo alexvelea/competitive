@@ -1,0 +1,26 @@
+#!/bin/bash
+if [ -z ${1} ]; then
+  for l in {1..7}; do
+    if test -f "./data/level${l}_example.in"; then
+      echo "Processing level $l";
+    else
+      continue;
+    fi
+
+    for i in {0..10}; do
+      if test -f "./data/level${l}_$i.in"; then
+        ./bin/build < "./data/level${l}_$i.in" > "./data/level${l}_$i.out"
+        echo "done level${l}_$i"
+      fi
+    done
+
+    ./bin/build < "./data/level${l}_example.in" > "./data/level${l}_example.out"
+  done
+else
+  for l in {1..7}; do
+    if test -f "./data/level${l}_$1.in"; then
+      ./bin/build < "./data/level${l}_$1.in" > "./data/level${l}_$1.out"
+      echo "done level${l}_$1"
+    fi
+  done
+fi
